@@ -5,6 +5,6 @@
   },
   "exclude_on_copy": {
     "files": ["qc_*.R", "init_r.sh", ".gitignore", ".Rprofile*", ".Renviron", "README.md"],
-    "dirs": [".githooks1", ".github", ".git"]
+    "dirs": [".githooks", ".github", ".git"]
   }
 }
